@@ -1,4 +1,6 @@
 main.out
 .vscode/
+.idea/
 .DS_Store
 test*
+Algorithm.iml
