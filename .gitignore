@@ -3,4 +3,5 @@ main.out
 .idea/
 .DS_Store
 test*
+out/
 Algorithm.iml
